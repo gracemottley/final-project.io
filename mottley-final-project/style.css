@@ -1,0 +1,65 @@
+h1{ 
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	font-size: 50px; 
+	text-transform: uppercase; 
+	font-weight: bold;
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+h2{
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color: black;
+	padding-left: 10px;
+	padding-right: 10px;
+	}
+
+
+.container{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+	display: block;
+	align-content: center;
+	margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+.background {
+  background-image: url("images/title-gradient.png");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 100%;
+}
+
+p{
+	text-align: left;
+	font-family: 'Merriweather', serif;
+	font-size: 15px;
+	color: black;
+	margin: 10 10 10 10;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+
+
+.photo img{ width: 320px;}
+
+.photo p{ 
+	font-style: italic; color: gray; font-family: Open sans-serif; text-align: right; margin-right: 10%}
+
+.video {
+	width: 100%;
+}
